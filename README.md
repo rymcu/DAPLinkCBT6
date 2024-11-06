@@ -3,5 +3,4 @@
 ![2](images/DAPLink_02.jpg)
 ![3](images/DAPLink_03.jpg)
 ![4](images/DAPLink_04.jpg)
-![5](images/DAPLink_5.jpg)
-![6](images/DAPLink_06.jpg)
+![5](images/DAPLink_05.jpg)
